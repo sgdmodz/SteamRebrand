@@ -25,7 +25,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using Microsoft.Win32;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public static class Steam
     {

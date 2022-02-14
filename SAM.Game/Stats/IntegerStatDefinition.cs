@@ -20,7 +20,7 @@
  *    distribution.
  */
 
-namespace SAM.Game.Stats
+namespace SGDMODZ.Game.Stats
 {
     internal class IntegerStatDefinition : StatDefinition
     {

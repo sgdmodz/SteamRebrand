@@ -22,7 +22,7 @@
 
 using System.Windows.Forms;
 
-namespace SAM.Game
+namespace SGDMODZ.Game
 {
 	internal class DoubleBufferedListView : ListView
 	{

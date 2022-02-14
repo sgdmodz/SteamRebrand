@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "SAM.API/7.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "compile": {
+          "bin/placeholder/SAM.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAM.API.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win7-x86": {
+      "SAM.API/7.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "compile": {
+          "bin/placeholder/SAM.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAM.API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAM.API/7.0.0": {
+      "type": "project",
+      "path": "../SAM.API/SAM.API.csproj",
+      "msbuildProject": "../SAM.API/SAM.API.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "SAM.API >= 7.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dylan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "7.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Steam Rebrand\\SAM.Picker\\SAM.Picker.csproj",
+      "projectName": "SAM.Picker",
+      "projectPath": "F:\\Steam Rebrand\\SAM.Picker\\SAM.Picker.csproj",
+      "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
+      "outputPath": "F:\\Steam Rebrand\\SAM.Picker\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "projectReferences": {
+            "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj": {
+              "projectPath": "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "targetAlias": "net40",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

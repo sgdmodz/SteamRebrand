@@ -25,7 +25,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Microsoft.Win32.SafeHandles;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     internal class NativeStrings
     {

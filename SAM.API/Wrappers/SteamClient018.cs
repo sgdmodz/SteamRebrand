@@ -22,9 +22,9 @@
 
 using System;
 using System.Runtime.InteropServices;
-using SAM.API.Interfaces;
+using SGDMODZ.API.Interfaces;
 
-namespace SAM.API.Wrappers
+namespace SGDMODZ.API.Wrappers
 {
     public class SteamClient018 : NativeWrapper<ISteamClient018>
     {

@@ -20,7 +20,7 @@
  *    distribution.
  */
 
-namespace SAM.API.Types
+namespace SGDMODZ.API.Types
 {
     public enum UserStatType
     {

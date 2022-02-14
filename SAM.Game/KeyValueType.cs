@@ -20,7 +20,7 @@
  *    distribution.
  */
 
-namespace SAM.Game
+namespace SGDMODZ.Game
 {
     internal enum KeyValueType : byte
     {

@@ -22,7 +22,7 @@
 
 using System.Drawing;
 
-namespace SAM.Picker
+namespace TeamSGD Steam Achivments
 {
     internal class LogoInfo
     {

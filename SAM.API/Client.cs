@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public class Client : IDisposable
     {

@@ -22,7 +22,7 @@
 
 using System.Windows.Forms;
 
-namespace SAM.Picker
+namespace SGDMODZ.Picker
 {
     internal class DoubleBufferedListView : ListView
     {

@@ -25,7 +25,7 @@ using System.Diagnostics;
 using System.Net;
 using System.Windows.Forms;
 
-namespace SAM.Game
+namespace SGDMODZ.Game
 {
     internal static class Program
     {

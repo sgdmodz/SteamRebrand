@@ -22,7 +22,7 @@
 
 using System.Globalization;
 
-namespace SAM.Picker
+namespace SGDMODZ.Picker
 {
     internal class GameInfo
     {

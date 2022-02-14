@@ -21,7 +21,7 @@
  */
 using System;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public class ClientInitializeException : Exception
     {

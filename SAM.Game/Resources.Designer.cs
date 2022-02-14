@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SAM.Game {
+namespace SGDMODZ.Game {
     using System;
     
     

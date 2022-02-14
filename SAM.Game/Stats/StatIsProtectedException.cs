@@ -23,7 +23,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace SAM.Game.Stats
+namespace SGDMODZ.Game.Stats
 {
     [Serializable]
     internal class StatIsProtectedException : Exception

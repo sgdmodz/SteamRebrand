@@ -20,7 +20,7 @@
  *    distribution.
  */
 
-namespace SAM.API.Callbacks
+namespace SGDMODZ.API.Callbacks
 {
     public class UserStatsReceived : Callback<Types.UserStatsReceived>
     {

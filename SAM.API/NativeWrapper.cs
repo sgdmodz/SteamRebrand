@@ -24,7 +24,7 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public abstract class NativeWrapper<TNativeFunctions> : INativeWrapper
     {

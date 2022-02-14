@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj": {}
+  },
+  "projects": {
+    "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj": {
+      "version": "7.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj",
+        "projectName": "SAM.API",
+        "projectPath": "F:\\Steam Rebrand\\SAM.API\\SAM.API.csproj",
+        "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
+        "outputPath": "F:\\Steam Rebrand\\SAM.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

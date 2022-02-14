@@ -32,9 +32,9 @@ using System.Linq;
 using System.Net;
 using System.Windows.Forms;
 using System.Xml.XPath;
-using APITypes = SAM.API.Types;
+using APITypes = SGDMODZ.API.Types;
 
-namespace SAM.Picker
+namespace SGDMODZ.Picker
 {
     internal partial class GamePicker : Form
     {

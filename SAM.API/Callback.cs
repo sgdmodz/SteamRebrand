@@ -23,7 +23,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public abstract class Callback : ICallback
     {

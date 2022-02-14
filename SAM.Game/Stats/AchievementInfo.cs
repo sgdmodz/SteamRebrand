@@ -22,7 +22,7 @@
 
 using System.Windows.Forms;
 
-namespace SAM.Game.Stats
+namespace SGDMODZ.Game.Stats
 {
     internal class AchievementInfo
     {

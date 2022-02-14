@@ -23,7 +23,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace SAM.Picker
+namespace SGDMODZ.Picker
 {
     internal static class Program
     {

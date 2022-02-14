@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SAM.Picker {
+namespace SGDMODZ.Picker {
     using System;
     
     

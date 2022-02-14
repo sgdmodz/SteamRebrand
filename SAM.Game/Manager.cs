@@ -29,9 +29,9 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Windows.Forms;
-using APITypes = SAM.API.Types;
+using APITypes = SGDMODZ.API.Types;
 
-namespace SAM.Game
+namespace SGDMODZ.Game
 {
     internal partial class Manager : Form
     {

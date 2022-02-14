@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df9102d5-048a-4d21-8ce3-3544cbdf0ed1": {
+      "ProjectGuid": "df9102d5-048a-4d21-8ce3-3544cbdf0ed1",
+      "DisplayName": "SAM.API",
+      "ColorIndex": 0
+    },
+    "7640de31-e54e-45f9-9cf0-8df3a3ea30fc": {
+      "ProjectGuid": "7640de31-e54e-45f9-9cf0-8df3a3ea30fc",
+      "DisplayName": "SAM.Game",
+      "ColorIndex": 1
+    },
+    "e89e57bb-0f09-47f3-98a0-2026e2e65fba": {
+      "ProjectGuid": "e89e57bb-0f09-47f3-98a0-2026e2e65fba",
+      "DisplayName": "SAM.Picker",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

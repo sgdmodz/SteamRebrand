@@ -22,7 +22,7 @@
 
 using System;
 
-namespace SAM.Game.Stats
+namespace SGDMODZ.Game.Stats
 {
     [Flags]
     internal enum StatFlags

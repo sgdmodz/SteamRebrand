@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace SAM.Game
+namespace SGDMODZ.Game
 {
     internal class KeyValue
     {

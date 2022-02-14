@@ -22,7 +22,7 @@
 
 using System;
 
-namespace SAM.API
+namespace SGDMODZ.API
 {
     public interface INativeWrapper
     {
